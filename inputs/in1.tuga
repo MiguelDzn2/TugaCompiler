@@ -1,0 +1,11 @@
+funcao ola(): inteiro
+inicio
+    se(falso) retorna 2;
+    senao retorna 3;
+fim
+
+funcao principal()
+inicio
+    x: inteiro;
+    x <- ola();
+fim
